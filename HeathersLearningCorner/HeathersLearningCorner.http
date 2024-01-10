@@ -1,0 +1,6 @@
+@HeathersLearningCorner_HostAddress = http://localhost:5164
+
+GET {{HeathersLearningCorner_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
